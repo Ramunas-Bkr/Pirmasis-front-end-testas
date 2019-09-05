@@ -13,10 +13,10 @@ body * {
         padding-bottom: 20px;
         padding-top: 60px;
         }
-        .div > ant {
+        .fonas > .ant {
             display: inline-block;
         }
-        .div > txt {
+        .fonas > .txt {
             display: inline-block;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 30px;
