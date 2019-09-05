@@ -13,13 +13,13 @@ body * {
         padding-bottom: 20px;
         padding-top: 60px;
         }
-        .fonas > h1 {
+        .div > ant {
             display: inline-block;
         }
-        .fonas > .p {
+        .div > txt {
             display: inline-block;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             font-size: 30px;
-            color: red;
+            color: white;
             text-decoration: underline;
         }
